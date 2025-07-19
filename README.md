@@ -3,6 +3,13 @@
 
 > A full-stack AI-powered web platform for students, faculty, and administrators that integrates intelligent features like attendance tracking, chatbot assistance, role-based dashboards, and academic automation.
 
+## 📸 Project Preview
+
+![CampusAi Preview](frontend/public/images/image.png)
+![CampusAi Preview](frontend/public/images/image2.png)
+![CampusAi Preview](frontend/public/images/image3.png)
+![CampusAi Preview](frontend/public/images/image4.png)
+--- 
 
 ## 🚀 Features
 
