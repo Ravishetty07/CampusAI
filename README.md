@@ -58,6 +58,7 @@ npm run dev      # Starts the server on PORT 4000 or specified
 ```bash
 cd ../frontend
 npm install
+npm install lucide-react
 npm start
 ```
 
